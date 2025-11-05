@@ -1,10 +1,5 @@
 # Domain of Tasks: Brooks Tower - Renovation
 
-> Full task list for this Domain. Each task is a block keyed by its ID.
-
-# Format of this file
-
-
 ## Active
 
 ### BT-RENO.001
