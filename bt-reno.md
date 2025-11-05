@@ -8,13 +8,13 @@
 ## Active
 
 ### BT-RENO.001
-- **Task**: Replace balcony door weatherstrip
+- **Task**: Replace balcony door.
 - **Quadrant**: IN
 - **Status**: NEW
 - **Due**: 2026-03-15
 - **Tags**: #weatherproofing #vendor
 - **Links**: [BT-Reno repo](https://example.com)  
-- **Notes**: Coordinate with supplier X; check PG ratings.
+- **Notes**: -
 
 ## Completed (archive)
 
