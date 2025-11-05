@@ -3,8 +3,8 @@
 ## Active
 
 ### BIRD.001
-- **Task**: Order new foraging toys (flagpole style)
-- **Quadrant**: UN
+- **Task**: Get 3D-print of hanging-cups design.
+- **Quadrant**: NN
 - **Status**: NEW
 - **Due**: —
 - **Tags**: #enrichment
