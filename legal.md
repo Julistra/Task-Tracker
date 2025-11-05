@@ -11,7 +11,7 @@
 - **Links**: [Case A folder](https://example.com)
 - **Notes**:  Letter re: Sheriff bad service.
 
-### LEGAL.00
+### LEGAL.002
 - **Task**: File replevin request - Junkyard Frogs
 - **Quadrant**: IU
 - **Status**: NEXT
