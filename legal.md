@@ -3,13 +3,22 @@
 ## Active
 
 ### LEGAL.001
-- **Task**: File replevin complaint — Case A
-- **Quadrant**: UI
+- **Task**: File replevin request - MEW
+- **Quadrant**: IU
 - **Status**: NEXT
-- **Due**: 2025-11-20
+- **Due**: 2025-11-30
 - **Tags**: #court #filing
 - **Links**: [Case A folder](https://example.com)
-- **Notes**: Verify jurisdiction + service.
+- **Notes**:  Letter re: Sheriff bad service.
+
+### LEGAL.00
+- **Task**: File replevin request - Junkyard Frogs
+- **Quadrant**: IU
+- **Status**: NEXT
+- **Due**: 2025-11-30
+- **Tags**: #court #filing
+- **Links**: [Case A folder](https://example.com)
+- **Notes**:  -
 
 ## Completed (archive)
  
