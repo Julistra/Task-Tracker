@@ -1,7 +1,7 @@
 ## Task-Tracker Repository
 All tasks for all areas of activity (Domains) in Juli's life.
 
-## Domains at the inception of this repo (November 2025):
+## Domains at inception of this repo (November 2025):
 -	BT Renovation
 -	BT ARC
 -	Estate
