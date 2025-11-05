@@ -2,13 +2,13 @@
 
 ## Active
 
-### MISC.001
-- **Task**: Create 2026 planning calendar
+### ADMIN.001
+- **Task**: Design Task-Tracker with ChatGPT.
 - **Quadrant**: IN
-- **Status**: NEW
-- **Due**: 2025-12-20
+- **Status**: In Progress
+- **Due**: 2025-11-07
 - **Tags**: #planning
 - **Links**: —
-- **Notes**: Print duplex; add HOA blackout dates.
+- **Notes**: -
 
 ## Completed (archive)
