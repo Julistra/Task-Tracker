@@ -3,13 +3,13 @@
 ## Active
 
 ### BT-ARC.001
-- **Task**: Draft ARC submission template v1
+- **Task**: Review minutes, agenda, rfp-draft before meeting
 - **Quadrant**: IN
 - **Status**: NEXT
-- **Due**: 2025-12-10
+- **Due**: 2025-11-05
 - **Tags**: #docs #standards
 - **Links**: [BT-ARC repo](https://example.com)
-- **Notes**: Include decision log + building history hooks.
+- **Notes**: -
 
 ## Completed (archive)
  
